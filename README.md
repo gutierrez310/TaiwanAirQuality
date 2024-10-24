@@ -1,6 +1,7 @@
 # Taiwan Air Quality Index Data 2016~2024
 
 This is a practice for Statistics and ML skills.
+This is a practice for Statistics and ML skills.
 
 Data from:
 `https://www.kaggle.com/datasets/taweilo/taiwan-air-quality-data-20162024`
@@ -14,6 +15,7 @@ pip install -r requirements.txt
 ```
 python utils/download_dataset.py taweilo/taiwan-air-quality-data-20162024
 ```
+<!-- 3. Run the full EDA.ipynb notebook to get air_quality.pkl
 <!-- 3. Run the full EDA.ipynb notebook to get air_quality.pkl
 ```
 jupyter nbconvert --execute utils/EDA.ipynb
