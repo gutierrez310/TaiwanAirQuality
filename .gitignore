@@ -1,0 +1,5 @@
+/.kaggle
+/utils/test.py
+/.venv
+/data/*.pkl
+/data/1/*

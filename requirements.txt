@@ -1,0 +1,4 @@
+kagglehub==0.3.3
+ydata-profiling==4.10.0
+streamlit==1.39.0
+pandas=2.2.3
